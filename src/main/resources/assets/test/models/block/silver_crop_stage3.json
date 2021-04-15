@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "texture": {
+    "crop": "test:block/silver_crop_stage3"
+  }
+}

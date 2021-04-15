@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "test:block/silver_block"
+    }
+  }
+}
